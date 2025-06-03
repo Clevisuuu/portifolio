@@ -190,11 +190,16 @@ body{
 @media (max-width: 800px) {
     
     .cabecalho {
-        padding: 10%
+        padding: 10% 8% 10% 8%;
     }
 
     .cabecalho__menu {
         align-items: center;
+    }
+
+    .cabecalho__menu__link {
+        font-size: 1rem;
+        gap: 2%;
     }
     
     .apresentacao {
