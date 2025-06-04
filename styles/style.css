@@ -208,7 +208,6 @@ body{
         font-size: 1.5rem;
         color: var(--cor-primaria);
         text-decoration: none;
-}
     }
     
     .apresentacao {
@@ -247,3 +246,4 @@ body{
     .curriculo__conteudo__box {
         width: auto;
     }
+}
